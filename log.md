@@ -11,3 +11,12 @@ I hope to enhance my skill in TDD using laravel the next coming days and to comp
 **Link to Tutorial:** Thanks to : [Krissanawat​ Kaewsanmuang](https://medium.com/@krissanawat/building-advance-blog-on-laravel-5-5-with-tdd-mode-5-user-can-create-post-6f0f635b5eac)
 
 **Link to Work:** [TDD Blog](https://github.com/TAGHREEDAA/TDDblog)
+
+
+### Day 2: February 22, 2018 
+
+**Today's Progress**: Still learning about Laravel TDD, and read about Laravel Debugging.
+
+**Thoughts:** Continue search in laravel TDD, I'm excited learning how to make it faster and preparing for a new project to start Tomorrow.
+
+**Link to Tutorial:** [Test-Driven Laravel from Scratch by Adam Wathan](https://adamwathan.me/2016/01/11/test-driven-laravel-from-scratch/)
