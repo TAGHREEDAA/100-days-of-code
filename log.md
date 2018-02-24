@@ -20,3 +20,26 @@ I hope to enhance my skill in TDD using laravel the next coming days and to comp
 **Thoughts:** Continue search in laravel TDD, I'm excited learning how to make it faster and preparing for a new project to start Tomorrow.
 
 **Link to Tutorial:** [Test-Driven Laravel from Scratch by Adam Wathan](https://adamwathan.me/2016/01/11/test-driven-laravel-from-scratch/)
+
+
+### Day 3: February 23, 2018 
+
+**Today's Progress**: Still studying Laravel TDD (where to start and write the first feature test function ) .. 
+Know about Model Factories and Faker library...
+Also know about php Doc Blocks.
+Working on Ticketing System as a trainning on the course just installed the laravel project and wrote a factory definition and 1 function in FeatureTests.
+
+**Thoughts:** I didn't delve into coding yet .. but I need to read more and more to get an overall idea about how to make a real project.
+
+I understood how to break the project into features.. selecting the main feature and choose it to start MVP project.
+also I understood how to break the features into small functions to select which tests need to be created.
+
+Before this I was stuck at the phase of large loop of development until reaching the main feature
+I mean I was thinking in to develop the feature 1 which is the core feature of the MVP it depends on 2,3,4...etc sub features 
+that are not important and not interesting so I lose my enthusiasm while creating migrations for the whole system then creating models...and so on, so I was spending alot of time before getting a working screen.
+
+I'm excited and glad to work using TDD to get things done faster.
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
