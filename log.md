@@ -43,3 +43,22 @@ I'm excited and glad to work using TDD to get things done faster.
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
 
 
+### Day 4: February 25, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD (Setting testing congig phpunit.xml, Acceptance Test, Unit testing presentation logic) .. 
+- read about Wishful thinking programming.
+
+**Thoughts:** I become faster a bit so it's encouraging me.
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+### Day 5: February 26, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD (Refacroring tests for speed) .. 
+- know Accessors and Mutators 
+
+**Thoughts:** mmm
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
