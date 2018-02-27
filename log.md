@@ -45,7 +45,7 @@ I'm excited and glad to work using TDD to get things done faster.
 
 ### Day 4: February 25, 2018 
 
-**Today's Progress**: Continue studying Laravel TDD (Setting testing congig phpunit.xml, Acceptance Test, Unit testing presentation logic) .. 
+**Today's Progress**: Continue studying Laravel TDD (Setting testing config phpunit.xml, Acceptance Test, Unit testing presentation logic) .. 
 - read about Wishful thinking programming.
 
 **Thoughts:** I become faster a bit so it's encouraging me.
@@ -59,6 +59,18 @@ I'm excited and glad to work using TDD to get things done faster.
 - know Accessors and Mutators 
 
 **Thoughts:** mmm
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+### Day 6: February 27, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- AsserResponseStatus
+- Query Scopes
+- Factory States.
+
+**Thoughts:** bad day but I had to do the challenge 
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
 
