@@ -74,3 +74,17 @@ I'm excited and glad to work using TDD to get things done faster.
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
 
+
+### Day 7: February 28, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Browser Testing vs Endpoint Testing
+- Learn about Stripe checkout using Laravel
+- Write Endpoint test.
+
+**Thoughts:** I
+
+**Link to Tutorials:** [How to Accept Payments: Stripe Checkout](https://laracasts.com/series/how-to-accept-payments-with-stripe/episodes/1)
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
