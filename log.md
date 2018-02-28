@@ -82,7 +82,8 @@ I'm excited and glad to work using TDD to get things done faster.
 - Learn about Stripe checkout using Laravel
 - Write Endpoint test.
 
-**Thoughts:** I
+**Thoughts:** Happy working and learning new features within my way to learn TDD 
+It becomes easier day after day.
 
 **Link to Tutorials:** [How to Accept Payments: Stripe Checkout](https://laracasts.com/series/how-to-accept-payments-with-stripe/episodes/1)
 
