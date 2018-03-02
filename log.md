@@ -89,3 +89,11 @@ It becomes easier day after day.
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
 
+
+### Day 8: March 01, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+
+**Thoughts:** Very Sleepy Zzzzzz
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
