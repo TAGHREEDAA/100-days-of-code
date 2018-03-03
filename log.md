@@ -100,3 +100,15 @@ It becomes easier day after day.
 **Thoughts:** Very Sleepy Zzzzzz
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+### Day 9: March 02, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Disable Exception Handling while run tests.
+- Know new functions [DecodeResponseJson, assertArrayHasKey, Setup function]
+- Create Custom assertion.
+
+**Thoughts:** I enjoyed coding more then the few past days.
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
