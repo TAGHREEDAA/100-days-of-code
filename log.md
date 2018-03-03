@@ -93,6 +93,9 @@ It becomes easier day after day.
 ### Day 8: March 01, 2018 
 
 **Today's Progress**: Continue studying Laravel TDD 
+- Encapsulating Relationship Logic in the Model
+- Getting Started with Validation Testing
+
 
 **Thoughts:** Very Sleepy Zzzzzz
 
