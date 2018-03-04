@@ -112,3 +112,16 @@ It becomes easier day after day.
 **Thoughts:** I enjoyed coding more then the few past days.
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+
+### Day 10: March 04, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- ExpectException annotation
+- Handle failed payments
+- Restrict purchasing tickets to published concerts only and with valid token.
+
+**Thoughts:** 
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
