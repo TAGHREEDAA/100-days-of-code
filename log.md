@@ -125,3 +125,14 @@ It becomes easier day after day.
 **Thoughts:** 
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+
+### Day 11: March 05, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Finished chapter 3 of the course 
+
+**Thoughts:** No new critical stuff..  but it becomes more clear to think with this way and easy to predict when and which test to write  
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
