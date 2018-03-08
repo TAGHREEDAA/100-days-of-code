@@ -146,7 +146,6 @@ It becomes easier day after day.
 **Link to Work:** 
 
 
-
 ### Day 13: March 07, 2018 
 
 **Today's Progress**: Continue studying Laravel TDD 
@@ -155,5 +154,6 @@ It becomes easier day after day.
 - Read about DDT (Data Driven Testing)
 
 **Thoughts:** TDD is interesting I love it
+**Link to Tutorial:** [Data-driven testing with PHPUnit](https://laravel-news.com/data-driven-testing-phpunit)
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
