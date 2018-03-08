@@ -136,3 +136,24 @@ It becomes easier day after day.
 **Thoughts:** No new critical stuff..  but it becomes more clear to think with this way and easy to predict when and which test to write  
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+### Day 12: March 06, 2018 
+
+**Today's Progress**: Reading in Laravel notifications in preparation for an important task. 
+**Thoughts:**  I feel I can't count this day because it's a part of my day work but keep going
+
+**Link to Work:** 
+
+
+
+### Day 13: March 07, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Json responses assertions
+- Did some refactoring
+- Read about DDT (Data Driven Testing)
+
+**Thoughts:** TDD is interesting I love it
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
