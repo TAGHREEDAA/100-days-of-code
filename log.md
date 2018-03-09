@@ -157,3 +157,17 @@ It becomes easier day after day.
 **Link to Tutorial:** [Data-driven testing with PHPUnit](https://laravel-news.com/data-driven-testing-phpunit)
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+
+
+### Day 14: March 08, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Refactoring while green state 
+- Know the named constructor 
+- Improving design
+
+**Thoughts:** It was pretty difficult to get the idea of green state refactoring from the first time, I was confused  
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
