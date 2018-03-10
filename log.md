@@ -171,3 +171,15 @@ It becomes easier day after day.
 **Thoughts:** It was pretty difficult to get the idea of green state refactoring from the first time, I was confused  
 
 **Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+
+
+### Day 15: March 09, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Setting up PhpStorm for laravel with autocompletion.
+
+**Thoughts:** I get bored so I skippedd the TDD course then started spending the remaining time of the challenge in setting the phpstorm autocomplete and explored my mailing lists of laravel sites.
+
+**Link to Tutorial:** [Setting up PhpStorm for laravel with autocompletion](https://medium.com/@sorravitbunjongpean/using-phpstorm-with-laravel-with-autocompletion-ef73c4d5a740)
