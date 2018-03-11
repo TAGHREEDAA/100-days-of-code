@@ -183,3 +183,12 @@ It becomes easier day after day.
 **Thoughts:** I get bored so I skippedd the TDD course then started spending the remaining time of the challenge in setting the phpstorm autocomplete and explored my mailing lists of laravel sites.
 
 **Link to Tutorial:** [Setting up PhpStorm for laravel with autocompletion](https://medium.com/@sorravitbunjongpean/using-phpstorm-with-laravel-with-autocompletion-ef73c4d5a740)
+
+
+### Day 16: March 10, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Review the yesterday lessons to better understand them
+- Read about mockery
+
+**Thoughts:** I was excited and I wanted to continue the lessons after the hour passed, but I stopped to start working to match an important deadline.
