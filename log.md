@@ -192,3 +192,12 @@ It becomes easier day after day.
 - Read about mockery
 
 **Thoughts:** I was excited and I wanted to continue the lessons after the hour passed, but I stopped to start working to match an important deadline.
+
+
+### Day 17: March 11, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Subrequests in laravel 
+
+
+**Thoughts:** Very complex
