@@ -201,3 +201,13 @@ It becomes easier day after day.
 
 
 **Thoughts:** Very complex
+
+
+
+### Day 18: March 13, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Continue Subrequests testing in laravel 
+
+
+**Thoughts:** 
