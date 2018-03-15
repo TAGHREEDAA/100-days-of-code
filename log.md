@@ -211,3 +211,18 @@ It becomes easier day after day.
 
 
 **Thoughts:** 
+
+
+### Day 19: March 14, 2018 
+
+**Today's Progress**: Continue studying Laravel TDD 
+- Used Mockery again.
+- Remove Stale Tests.
+- Refactoring
+
+**Thoughts:** feeling blur.
+
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+
