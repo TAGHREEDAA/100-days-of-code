@@ -226,3 +226,13 @@ It becomes easier day after day.
 
 
 
+
+### Day 20: March 15, 2018 
+
+**Today's Progress**: Reading about stripe cashier in laravel
+
+**Thoughts:** very sleepy .. complicated stuff .
+
+
+
+
