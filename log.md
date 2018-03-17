@@ -234,5 +234,14 @@ It becomes easier day after day.
 **Thoughts:** very sleepy .. complicated stuff .
 
 
+### Day 21: March 16, 2018 
+
+**Today's Progress**: Working on stripe cashier in laravel
+
+**Thoughts:** 
+Very distracted and anxious today... stuck in a difficult task for me and not confident enough.
+I hope if I had someone - a friend / coding partner / mentor - who work with me in this tough way of learning.
+
+**Link to Tutorial:** [Coupon Generation With TDD](https://laracasts.com/series/whatcha-working-on/episodes/13)
 
 
