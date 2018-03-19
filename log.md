@@ -245,3 +245,12 @@ I hope if I had someone - a friend / coding partner / mentor - who work with me 
 **Link to Tutorial:** [Coupon Generation With TDD](https://laracasts.com/series/whatcha-working-on/episodes/13)
 
 
+### Day 22: March 18, 2018 
+
+**Today's Progress**: Learned how to generate coupon with stripe gateway... some refactoring skills.
+Read about Dependency Injection
+
+**Thoughts:**  Amazing lesson from jeffery way.. I was excited while he was refactoring the code and I got the idea easily..
+
+
+**Link to Tutorial:** [Coupon Generation With TDD](https://laracasts.com/series/whatcha-working-on/episodes/13)
