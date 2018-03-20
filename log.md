@@ -256,3 +256,5 @@ Read about Dependency Injection
 **Link to Tutorial:** [Coupon Generation With TDD](https://laracasts.com/series/whatcha-working-on/episodes/13)
 
 [Dependency Injection in PHP](https://code.tutsplus.com/tutorials/dependency-injection-in-php--net-28146)
+
+[Things Laravel Made Me Believe - Jeffrey Way - Laracon EU 2015](https://www.youtube.com/watch?v=mDotS5BDqRM)
