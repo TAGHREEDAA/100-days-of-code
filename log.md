@@ -279,6 +279,12 @@ keep up 💪
 
 ### Day 25: March 21, 2018 
 
-**Today's Progress**: 
-**Thoughts:**  
+**Today's Progress**: Continue Laravel TDD Course, know about new topics
+- Method Injection.
+- Controller Constructor Injection.
+- Inversion of control IOC and DI Dependency Injection.
+
+**Thoughts:**  Interesting day.
 **Link to Tutorial:** [Inversion of Control (IoC) and Dependency Injection (DI)](https://stackoverflow.com/questions/3058/what-is-inversion-of-control)
+
+
