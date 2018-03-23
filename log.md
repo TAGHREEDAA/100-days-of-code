@@ -258,3 +258,27 @@ Read about Dependency Injection
 [Dependency Injection in PHP](https://code.tutsplus.com/tutorials/dependency-injection-in-php--net-28146)
 
 [Things Laravel Made Me Believe - Jeffrey Way - Laracon EU 2015](https://www.youtube.com/watch?v=mDotS5BDqRM)
+
+
+### Day 23: March 19, 2018 
+
+**Today's Progress**:  Back to Laravel TDD studying , got an idea about Bad Smell concept & Feature Envy
+**Thoughts:**  😴😴💤💤💤 
+very sleepy .. one of the most difficult days I spent in the challenge after along time awake I was afraid of losing the challenge
+keep up 💪
+
+
+
+### Day 24: March 20, 2018 
+
+**Today's Progress**: Repeated the previous day videos of the Laravel TDD Course. and tried to apply on code.
+**Thoughts:**  Not bad.. but I need to focus and finish this course ... I hope to move from learning to doing and creating stuff.
+**Link to Work:** [Ticketing System](https://github.com/TAGHREEDAA/TicketingSystem)
+
+
+
+### Day 25: March 21, 2018 
+
+**Today's Progress**: 
+**Thoughts:**  
+**Link to Tutorial:** [Inversion of Control (IoC) and Dependency Injection (DI)](https://stackoverflow.com/questions/3058/what-is-inversion-of-control)
