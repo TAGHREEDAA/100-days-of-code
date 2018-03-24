@@ -305,10 +305,13 @@ keep up 💪
 
 ### Day 27: March 23, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Watched some videos about refactroing and bad smell code.
+- Watched a talk about ways to advance programming skills.
+- Signed up and trying exercise php on exercism.io.
 
 **Thoughts:** 
 
 **Link to Tutorial:** 
 [3 Ways To Advance Your Programming Skills](https://www.youtube.com/watch?v=cYSfWzRnJek&feature=push-u-sub&attr_tag=vzlb1wqeZ3wB5WzR-6)
 
+[Exercism.io](http://exercism.io/languages/php/exercises)
