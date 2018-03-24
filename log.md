@@ -292,3 +292,23 @@ keep up 💪
 **Link to Tutorial:** [Inversion of Control (IoC) and Dependency Injection (DI)](https://stackoverflow.com/questions/3058/what-is-inversion-of-control)
 
 
+
+### Day 26: March 22, 2018 
+
+**Today's Progress**: Continue Laravel TDD course.. testing stripe 
+
+**Thoughts:** 
+
+**Link to Tutorial:**
+
+
+
+### Day 27: March 23, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to Tutorial:** 
+[3 Ways To Advance Your Programming Skills](https://www.youtube.com/watch?v=cYSfWzRnJek&feature=push-u-sub&attr_tag=vzlb1wqeZ3wB5WzR-6)
+
