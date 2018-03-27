@@ -315,3 +315,23 @@ keep up 💪
 [3 Ways To Advance Your Programming Skills](https://www.youtube.com/watch?v=cYSfWzRnJek&feature=push-u-sub&attr_tag=vzlb1wqeZ3wB5WzR-6)
 
 [Exercism.io](http://exercism.io/languages/php/exercises)
+
+
+### Day 28: March 24, 2018 
+
+**Today's Progress**: Setup and prepare for new project in laravel
+
+**Thoughts:** 
+
+**Link to work:** [CompanyManagementApp](https://github.com/TAGHREEDAA/CompanyManagementApp)
+
+
+
+### Day 29: March 26, 2018 
+
+**Today's Progress**: Back to Laravel TDD... end the stripe testing and try the testing from browser for the first time.
+
+**Thoughts:** 
+
+**Link to Tutorial:** 
+
