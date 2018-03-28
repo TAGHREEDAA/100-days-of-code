@@ -329,9 +329,17 @@ keep up 💪
 
 ### Day 29: March 26, 2018 
 
-**Today's Progress**: Back to Laravel TDD... end the stripe testing and try the testing from browser for the first time.
+**Today's Progress**: Back to Laravel TDD... finish the stripe testing and try the testing from browser for the first time.
 
 **Thoughts:** 
 
 **Link to Tutorial:** 
 
+
+### Day 30: March 28, 2018 
+
+**Today's Progress**: Worked on laravel project, and watched a meetup about TDD "The Art of Fearless Programming".
+
+**Thoughts:** 
+
+**Link to Tutorial:** [TDD Introduction With Ameer Gaafar (In Arabic)](https://www.youtube.com/playlist?list=PLZPHP6RGS50NtpHLee-eInDbFqy3P303g)
