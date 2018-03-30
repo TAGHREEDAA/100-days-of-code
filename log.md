@@ -343,3 +343,17 @@ keep up 💪
 **Thoughts:** 
 
 **Link to Tutorial:** [TDD Introduction With Ameer Gaafar (In Arabic)](https://www.youtube.com/playlist?list=PLZPHP6RGS50NtpHLee-eInDbFqy3P303g)
+
+
+
+### Day 31: March 29, 2018 
+
+**Today's Progress**: Reading and watching laravel tutorials
+- Queues
+- Eloquent Events
+
+**Thoughts:** I tried to read from Clean code book but I couldn't continue.
+Tried to solve php on Exercism.io but also felt bored quickly.
+I'm distracted and confused too much this week, I hope the next week will be better than this.
+
+**Link to Tutorial:** Laracasts.com
