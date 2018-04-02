@@ -368,3 +368,20 @@ I'm distracted and confused too much this week, I hope the next week will be bet
 I also started learning from other's code for the first time ... I like that.
 
 **Link to Work:** [Transportation-App](https://github.com/TAGHREEDAA/CompanyManagementApp)
+
+
+
+### Day 33: April 01, 2018 
+
+**Today's Progress**: Exploring many opensource  ecommerce projects built on laravel.
+
+**Thoughts:** Amazing
+
+**Links:** 
+- [Vanilo](https://vanilo.io/)
+- [GetCandy](https://getcandy.io/)
+- [Laracom](https://laracom.net/)
+
+**Videos:** 
+- [Have an app idea? Do this BEFORE you start coding](https://www.youtube.com/watch?v=DDUMGnQOiE4)
+- [Landing page teardown 08 – open source Laravel project](https://www.youtube.com/watch?v=YaHXZT6RNs8)
