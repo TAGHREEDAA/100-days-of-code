@@ -385,3 +385,13 @@ I also started learning from other's code for the first time ... I like that.
 **Videos:** 
 - [Have an app idea? Do this BEFORE you start coding](https://www.youtube.com/watch?v=DDUMGnQOiE4)
 - [Landing page teardown 08 – open source Laravel project](https://www.youtube.com/watch?v=YaHXZT6RNs8)
+
+
+### Day 34: April 02, 2018 
+
+**Today's Progress**: Miscellaneous readings about laravel.
+
+**Thoughts:** 
+
+**Links:** 
+- [Building a Slack clone using Laravel, Tailwind CSS](https://blog.pusher.com/slack-clone-laravel-tailwindcss-vuejs/)
