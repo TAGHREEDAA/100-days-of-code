@@ -395,3 +395,14 @@ I also started learning from other's code for the first time ... I like that.
 
 **Links:** 
 - [Building a Slack clone using Laravel, Tailwind CSS](https://blog.pusher.com/slack-clone-laravel-tailwindcss-vuejs/)
+
+
+
+### Day 35: April 03, 2018 
+
+**Today's Progress**: Read about Repository pattern in laravel, ACL.
+
+**Thoughts:** 
+
+**Links:** 
+- [Laravel Tutorial - ACL (User Roles)](https://www.youtube.com/watch?v=d1d4-0v8Zmk)
