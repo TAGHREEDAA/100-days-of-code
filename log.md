@@ -406,3 +406,13 @@ I also started learning from other's code for the first time ... I like that.
 
 **Links:** 
 - [Laravel Tutorial - ACL (User Roles)](https://www.youtube.com/watch?v=d1d4-0v8Zmk)
+
+
+### Day 36: April 05, 2018 
+
+**Today's Progress**: Know about Laratrust.
+
+**Thoughts:** Verrrry distracted
+
+**Links:** 
+- [Configuring Laratrust - Build an Advanced Blog/CMS (Episode 10)](https://www.youtube.com/watch?v=08NNkh6gNt4)
