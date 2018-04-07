@@ -416,3 +416,15 @@ I also started learning from other's code for the first time ... I like that.
 
 **Links:** 
 - [Configuring Laratrust - Build an Advanced Blog/CMS (Episode 10)](https://www.youtube.com/watch?v=08NNkh6gNt4)
+
+
+
+
+### Day 37: April 06, 2018 
+
+**Today's Progress**: Learn about Authentication in laravel.
+
+**Thoughts:** 
+
+**Links:** 
+- [Introduction to JWT (JSON Web Token) - Securing apps & services](https://www.youtube.com/watch?v=oXxbB5kv9OA)
