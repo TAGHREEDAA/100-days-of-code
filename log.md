@@ -428,3 +428,15 @@ I also started learning from other's code for the first time ... I like that.
 
 **Links:** 
 - [Introduction to JWT (JSON Web Token) - Securing apps & services](https://www.youtube.com/watch?v=oXxbB5kv9OA)
+
+
+
+### Day 38: April 07, 2018 
+
+**Today's Progress**: Learning JWT Authentication in laravel.
+
+**Thoughts:** 
+
+**Links:** 
+- [APIs and Laravel: Part 1 — JWT Primer](https://medium.com/@3lpsy/apis-and-laravel-part-1-jwt-74d5355fc7f8)
+- [APIs and Laravel: Part 2— JWT Tymon](https://medium.com/@3lpsy/apis-and-laravel-part-2-jwt-tymon-3e7f365af81c)
