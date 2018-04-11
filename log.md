@@ -451,12 +451,22 @@ I also started learning from other's code for the first time ... I like that.
 **Links:** 
 
 
-
 ### Day 40: April 10, 2018 
 
 **Today's Progress**: Working on JWT and basic auth in laravel.
 
 **Thoughts:** 
+
+**Links:** 
+
+### Day 41: April 11, 2018 
+
+**Today's Progress**: Working on JWT and basic auth in laravel, writing unit tests for JWT auth
+
+**Thoughts:** Enjoy doing custom #Laravel auth, testing JWT-Auth
+although I find difficulty in figuring out what exactly I need to do and how
+Hope I can break the mystery Tomorrow
+BTW I like that writing my thoughts helps me on using the language while doing the #100DaysOfCode challenge
 
 **Links:** 
 
