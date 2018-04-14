@@ -470,3 +470,14 @@ BTW I like that writing my thoughts helps me on using the language while doing t
 
 **Links:** 
 
+
+### Day 42: April 13, 2018 
+
+**Today's Progress**: Watched 3 lessons from Laravel TDD course:
+- Contract Tests.
+- Callback Based APIs.
+- Refactoring Towards Duplication.
+
+**Thoughts:** I'm totallu fallen in love with this course, it is very useful further than just learning about TDD, Adam is awesome in making you learn from how he think and presents different thoughts while coding.
+
+**Links:** 
