@@ -478,6 +478,15 @@ BTW I like that writing my thoughts helps me on using the language while doing t
 - Callback Based APIs.
 - Refactoring Towards Duplication.
 
-**Thoughts:** I'm totallu fallen in love with this course, it is very useful further than just learning about TDD, Adam is awesome in making you learn from how he think and presents different thoughts while coding.
+**Thoughts:** I'm totally fallen in love with this course, it is very useful further than just learning about TDD, Adam is awesome in making you learn from how he think and presents different thoughts while coding.
 
 **Links:** 
+
+
+### Day 43: April 14, 2018 
+
+**Today's Progress**: Setup new laravel project, created the first TDD test, make the auth and migrations. 
+
+**Thoughts:** 
+
+**Links:** Mini CRM
