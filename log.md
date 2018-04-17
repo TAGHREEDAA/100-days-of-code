@@ -490,3 +490,12 @@ BTW I like that writing my thoughts helps me on using the language while doing t
 **Thoughts:** 
 
 **Links:** Mini CRM
+
+
+### Day 44: April 16, 2018 
+
+**Today's Progress**: Installing docker.
+
+**Thoughts:** 
+
+**Links:** [Docker for PHP Developers](https://www.youtube.com/watch?v=Ch1k8-vMG_E)
