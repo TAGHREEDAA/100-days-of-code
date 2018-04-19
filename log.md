@@ -499,3 +499,18 @@ BTW I like that writing my thoughts helps me on using the language while doing t
 **Thoughts:** 
 
 **Links:** [Docker for PHP Developers](https://www.youtube.com/watch?v=Ch1k8-vMG_E)
+
+
+
+### Day 45: April 17, 2018 
+
+**Today's Progress**: Learning about docker.
+
+**Thoughts:** 
+
+
+### Day 46: April 18, 2018 
+
+**Today's Progress**: Learning about docker.
+
+**Thoughts:** 
