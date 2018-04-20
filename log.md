@@ -514,3 +514,10 @@ BTW I like that writing my thoughts helps me on using the language while doing t
 **Today's Progress**: Learning about docker.
 
 **Thoughts:** 
+
+
+### Day 47: April 20, 2018 
+
+**Today's Progress**: Worked on the first php app using docker.
+
+**Thoughts:** 
