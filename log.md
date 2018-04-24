@@ -521,3 +521,20 @@ BTW I like that writing my thoughts helps me on using the language while doing t
 **Today's Progress**: Worked on the first php app using docker.
 
 **Thoughts:** 
+
+
+### Day 48: April 22, 2018 
+
+**Today's Progress**: Debugging and testing jwt-auth task related to an internship, working on HNG4 internship tasks.
+
+**Thoughts:** I find difficulty in focus on 1 thing and finish it and thats makes me depressed almost of the time.
+
+
+### Day 49: April 23, 2018 
+
+**Today's Progress**: Worked on a task related to internship.
+
+**Thoughts:** 
+
+
+
