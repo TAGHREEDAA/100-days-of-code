@@ -61,11 +61,11 @@
 
 
 
-### Day 6: July 30, 2018 
+### Day 6: July 31, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Reading about responsive web design.
 
-**Thoughts:**
+**Thoughts:** 
 
 **Link to Tutorial:** []()
 
