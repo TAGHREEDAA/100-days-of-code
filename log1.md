@@ -73,9 +73,9 @@
 
 
 
-### Day 7: July 30, 2018 
+### Day 7: August 02, 03 , 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Working on the Hajj Hackathon app
 
 **Thoughts:**
 
