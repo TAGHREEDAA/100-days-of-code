@@ -84,15 +84,18 @@
 **Link to Work:** []()
 
 
+/* Start Over agaaaaain*/
 
+### Day 1: August 07 , 2018
 
-### Day 8: July 30, 2018 
+**Today's Progress**: Understanding Responsive web design and Mobile First Approach. 
 
-**Today's Progress**: 
+**Thoughts:** 
 
-**Thoughts:**
-
-**Link to Tutorial:** []()
+**Link to Tutorial:** 
+  -[Create Responsive Web Design Without Framework](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzVaRnCYoklHqz01jve8ZWv)
+  -[A Hands-On Guide to Mobile-First Responsive Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+  -[Bootstrap](https://getbootstrap.com/docs/4.1/layout/overview/#containers)
 
 **Link to Work:** []()
 
